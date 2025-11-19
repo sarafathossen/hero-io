@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co/hFk79v43/New-Project-7.jpg",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC (Meta)",
+    "id": 1,
+    "description": "WhatsApp is a simple, secure messaging and calling app used by over two billion people worldwide. Send text messages, voice messages, make voice and video calls, share photos, documents, locations, and status updates — all protected by end-to-end encryption. WhatsApp works on mobile and desktop, supports group chats and broadcast lists, and includes features such as message reactions, disappearing messages, file sharing up to hundreds of MB, and cross-device usage. Businesses can use WhatsApp Business features like catalogues and automated messages. WhatsApp is optimized to perform well on slow networks and keeps you connected without subscription fees.",
+    "size": 320,
+    "reviews": 59,
+    "ratingAvg": 4.3,
+    "downloads": 5.4,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 90000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/BHQfGdMV/New-Project-8.jpg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Facebook helps you stay connected to the people and things that matter. Post status updates, share photos and videos, join and manage groups, create events, shop in Marketplace, and discover local businesses and happenings. The app includes Reels, Stories, and video tools for creators, along with privacy controls for posts and profiles. Facebook’s algorithm surfaces posts relevant to your interests while offering customization to prioritize friends, pages, or groups. The app also offers creator monetization tools, pages for businesses, and integrated messaging via Messenger.",
+    "size": 70,
+    "reviews": 22,
+    "ratingAvg": 4.1,
+    "downloads": 2.9,
+    "ratings": [
+      { "name": "1 star", "count": 12000000 },
+      { "name": "2 star", "count": 7000000 },
+      { "name": "3 star", "count": 20000000 },
+      { "name": "4 star", "count": 50000000 },
+      { "name": "5 star", "count": 126000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/chqJ04fP/New-Project-9.jpg",
+    "title": "Instagram",
+    "companyName": "Instagram (Meta)",
+    "id": 3,
+    "description": "Instagram is a visual-first social platform to share photos, videos and short-form Reels. Connect with friends and creators, explore trending content, edit with built-in filters and creative tools, and build a profile to showcase highlights. Instagram supports direct messages, collaborative posts, shops for businesses, live streaming, and in-app monetization tools for creators. The Explore feed helps you discover content tailored to your tastes, while Stories provide 24-hour moments. Profiles, privacy settings, and safety features help manage interactions and content visibility.",
+    "size": 580,
+    "reviews": 1.8,
+    "ratingAvg": 4.2,
+    "downloads": 5.4,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 3500000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 35000000 },
+      { "name": "5 star", "count": 130000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/wFrT0y9S/New-Project-10.jpg",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 4,
+    "description": "TikTok is the leading short-video platform where creators and viewers connect through quick, engaging videos. Use an extensive library of music, sound effects, filters, and editing tools to create short clips, follow trending challenges, and discover personalized content via the For You feed. TikTok supports livestreaming, in-app shopping, collaborative features, and creator tools for monetization. The app’s recommendation system quickly adapts to your viewing preferences to surface videos you’re likely to enjoy.",
+    "size": 190,
+    "reviews": 330,
+    "ratingAvg": 4.4,
+    "downloads": 3.4,
+    "ratings": [
+      { "name": "1 star", "count": 9000000 },
+      { "name": "2 star", "count": 4500000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 50000000 },
+      { "name": "5 star", "count": 250000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/TqYwJN3g/New-Project-11.jpg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 5,
+    "description": "YouTube is the world’s largest video platform: watch music videos, tutorials, shows, news, and creator content. Subscribe to channels, create playlists, upload your own videos, livestream, and engage with creators via comments and community posts. YouTube supports picture-in-picture and offline downloads for Premium members, and provides creator analytics, monetization, and Shorts for vertical short-form videos. The app recommends videos tailored to your interests and allows casting to TVs or external devices.",
+    "size": 75,
+    "reviews": 540,
+    "ratingAvg": 4.5,
+    "downloads": 5.9,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 11000000 },
+      { "name": "4 star", "count": 40000000 },
+      { "name": "5 star", "count": 265000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/4wbX5xZH/New-Project-12.jpg",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "Gmail is Google’s email service with powerful spam protection, intelligent organization (Primary, Social, Promotions tabs), threaded conversations, and fast search. The mobile app supports multiple accounts, push notifications, attachment preview, offline support, and built-in integrations with Google Drive and Meet. Smart replies and Smart Compose speed up writing, while advanced security features protect your account.",
+    "size": 355,
+    "reviews": 12,
+    "ratingAvg": 4.1,
+    "downloads": 3.9,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 2800000 },
+      { "name": "4 star", "count": 14000000 },
+      { "name": "5 star", "count": 100000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/vCjH2PXn/New-Project-13.jpg",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 7,
+    "description": "Google Maps offers fast navigation, real-time traffic updates, turn-by-turn directions, transit schedules, and place discovery. Find restaurants, businesses, and attractions with reviews and photos; save favorite places; and use Street View to preview routes. The app provides multi-stop routing, offline maps for travel, and live location sharing. Maps powers location-aware features for many apps and devices and constantly updates with user contributions.",
+    "size": 622,
+    "reviews": 240,
+    "ratingAvg": 4.3,
+    "downloads": 4.8,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 2300000 },
+      { "name": "3 star", "count": 5400000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 256500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/7tWQHBk9/New-Project-14.jpg",
+    "title": "Spotify",
+    "companyName": "Spotify Ltd.",
+    "id": 8,
+    "description": "Spotify is a streaming service for music, podcasts, and audio shows. Discover playlists, personalized mixes (Daily Mix, Discover Weekly), artist radios, and exclusive podcasts. The app supports offline listening for Premium subscribers, collaborative playlists, social sharing, and cross-device listening with Spotify Connect. Advanced recommendations adapt to your tastes and new releases arrive daily. Discover new artists, save favorites, and follow creators.",
+    "size": 450,
+    "reviews": 150,
+    "ratingAvg": 4.4,
+    "downloads": 2.9,
+    "ratings": [
+      { "name": "1 star", "count": 9000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 22000000 },
+      { "name": "5 star", "count": 150000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/dwV0kyBS/New-Project-15.jpg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 9,
+    "description": "Netflix is a subscription streaming service offering thousands of TV shows, movies, documentaries, and original productions. Browse personalized recommendations, create multiple profiles, download titles for offline viewing, and watch on multiple devices. Netflix features curated categories, trailers, and continue-watching functionality. Subscriptions unlock different streaming qualities (SD/HD/4K) and multiple simultaneous streams depending on plan.",
+    "size": 500,
+    "reviews": 350,
+    "ratingAvg": 4.2,
+    "downloads": 6.8,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 800000000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 24000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/WppCtbY0/New-Project-16.jpg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 10,
+    "description": "Snapchat is a camera-first messaging app where photos and videos (Snaps) disappear after viewing. Share Stories, use Lenses (AR filters), chat, and explore Discover channels for publisher content. Snapchat includes Spotlight for short videos, Snap Map to see friends’ shared locations, and Memories to save Snaps privately. The app focuses on ephemeral, creative communication and AR-driven experiences.",
+    "size": 70,
+    "reviews": 540,
+    "ratingAvg": 4.1,
+    "downloads": 6.4,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 2200000 },
+      { "name": "3 star", "count": 5400000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 30000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/1582z9P/New-Project-17.jpg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 11,
+    "description": "Telegram is a cloud-based messaging app focused on speed, privacy and large-group support. Send messages, photos, files, and media with end-to-end encryption available in Secret Chats. Telegram supports massive groups, channels for broadcasting to unlimited audiences, bots and developers’ APIs, file sharing up to GBs, and multi-device sync. Advanced features include message scheduling, polls and custom themes.",
+    "size": 45,
+    "reviews": 850,
+    "ratingAvg": 4.5,
+    "downloads": 4.2,
+    "ratings": [
+      { "name": "1 star", "count": 1100000 },
+      { "name": "2 star", "count": 450000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 74000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/BHGxk5Pd/New-Project-18.jpg",
+    "title": "Zoom Cloud Meetings",
+    "companyName": "Zoom",
+    "id": 12,
+    "description": "Zoom is a video conferencing app for online meetings, webinars, and group collaboration. Join or host HD video meetings, share screens, record sessions, use virtual backgrounds, and chat. Zoom integrates with calendars and offers breakout rooms, polls, and meeting passcodes. It scales from 1:1 calls to large webinars and supports optimized audio/video on low bandwidth connections.",
+    "size": 620,
+    "reviews": 320,
+    "ratingAvg": 4.3,
+    "downloads": 2.9,
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 6500000 },
+      { "name": "5 star", "count": 23000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/bngFSzF/New-Project-19.jpg",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 13,
+    "description": "Microsoft Teams connects people for chat, calls, meetings, and collaboration. Use threaded conversations, file sharing through OneDrive, integrated Office apps, online meetings with recording and transcription, and built-in security and compliance. Teams supports channels for group collaboration, apps and automation, and is used heavily in business and education scenarios.",
+    "size": 140,
+    "reviews": 520,
+    "ratingAvg": 4.1,
+    "downloads": 9.8,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/tPh7tMLy/New-Project-20.jpg",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 14,
+    "description": "Amazon Shopping provides access to millions of products, customer reviews, wish lists, lightning deals, one-click purchasing, and order tracking. The app includes personalized recommendations, barcode scanning, Prime benefits, and voice-enabled search using Alexa. It supports multiple payment methods, seller messaging, and in-app returns.",
+    "size": 850,
+    "reviews": 130,
+    "ratingAvg": 4.2,
+    "downloads": 5.3,
+    "ratings": [
+      { "name": "1 star", "count": 7000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 26000000 },
+      { "name": "5 star", "count": 90000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/zVwNbdqq/New-Project-21.jpg",
+    "title": "PayPal",
+    "companyName": "PayPal, Inc.",
+    "id": 15,
+    "description": "PayPal is a digital payments app that enables secure money transfers, online purchases, invoice sending, and account management. Link bank accounts and cards, send money to contacts, request payments, and monitor transactions. PayPal provides buyer protection and supports multiple currencies with strong security measures including two-step verification.",
+    "size": 50,
+    "reviews": 120,
+    "ratingAvg": 4.6,
+    "downloads": 5.7,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 240000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/23xkYGY7/New-Project-22.jpg",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation (Microsoft)",
+    "id": 16,
+    "description": "LinkedIn is a professional networking platform for job seekers, recruiters and professionals. Share posts and articles, build your professional profile and resume, search and apply for jobs, and network with colleagues. LinkedIn offers company pages, learning courses, in-app messaging, and recruitment tools for talent sourcing.",
+    "size": 190,
+    "reviews": 150,
+    "ratingAvg": 4.2,
+    "downloads": 5.1,
+    "ratings": [
+      { "name": "1 star", "count": 450000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 12000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/BV5R5FbV/New-Project-23.jpg",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 17,
+    "description": "Pinterest is a visual discovery engine for ideas: home decor, recipes, fashion, DIY, and more. Save Pins to boards, follow creative accounts, get inspiration for projects and shopping, and discover shoppable Pins. Pinterest uses personalized recommendations to surface new content and offers tools for creators and advertisers.",
+    "size": 330,
+    "reviews": 40,
+    "ratingAvg": 4.6,
+    "downloads": 5.3,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 180000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 45500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/xtq3CGHW/New-Project-24.jpg",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 18,
+    "description": "Uber connects riders with drivers for on-demand rides in cities worldwide. Request a ride, track your driver, split fares, and choose service levels (economy, premium, XL). Uber also provides delivery services (Uber Eats), driver features, trip receipts, and safety toolkits including trip sharing and emergency assistance. Ratings and feedback help maintain quality across the platform.",
+    "size": 120,
+    "reviews": 780,
+    "ratingAvg": 4.1,
+    "downloads": 7.8,
+    "ratings": [
+      { "name": "1 star", "count": 3500000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 3500000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 51000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/1YL3PC40/New-Project-25.jpg",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "id": 19,
+    "description": "Dropbox provides cloud storage and file sync for documents, photos, and backups. Upload and access files from any device, share links with collaborators, and use integrations with productivity apps. Dropbox supports selective sync, offline file access, and robust version history for recovery. Teams can use shared folders and admin tools for collaboration.",
+    "size": 600,
+    "reviews": 950,
+    "ratingAvg": 4.4,
+    "downloads": 8.8,
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 3600000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/HpGVKT22/New-Project-26.jpg",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 20,
+    "description": "Google Photos stores, organizes, and backs up your photos and videos. Use automatic organization, powerful search by people and places, editing tools, albums, shared libraries, and automated creations like movies and collages. Google Photos offers intelligent suggestions, compression options for space-saving backups, and easy sharing to other apps and devices.",
+    "size": 440,
+    "reviews": 120,
+    "ratingAvg": 4.5,
+    "downloads": 5.8,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 110000000 }
+    ]
+  }
+]
